@@ -1,6 +1,6 @@
 {
-  "title": "Topshop Storefront | Sandbox",
-  "titleTemplate": "%s - Topshop Storefront | Sandbox",
+  "title": "ACME Storefront | Powered by Next.js Commerce",
+  "titleTemplate": "%s - ACME Storefront",
   "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
   "openGraph": {
     "type": "website",
